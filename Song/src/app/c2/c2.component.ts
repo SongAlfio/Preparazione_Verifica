@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-c2',
+  selector: 'app-third-component',
   templateUrl: './c2.component.html',
   styleUrls: ['./c2.component.css']
 })
