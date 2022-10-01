@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Preparazione_Verifica_2';
+  title = '02.2[LAB-VER]';
 }
